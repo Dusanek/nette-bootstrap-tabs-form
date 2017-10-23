@@ -1,0 +1,16 @@
+{
+    "name": "duse/nette-bootstrap-tabs-form",
+    "description": "Nette bootstrap form renderer with tabs support",
+    "license": "LGPL",
+    "keywords": ["duse"],
+
+    "require": {
+        "php": ">= 5.3.7",
+        "nette/forms": "~2.3"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
